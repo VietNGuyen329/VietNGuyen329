@@ -2,7 +2,7 @@
 
 ---
 
-##  🇻🇳🇻🇳🇻🇳🇻🇳🇻🇳🇻🇳About Me (English)🇻🇳🇻🇳🇻🇳🇻🇳🇻🇳🇻🇳🇻🇳
+##  🇻🇳🇻🇳🇻🇳🇻🇳🇻🇳🇻🇳 About Me (English) 🇻🇳🇻🇳🇻🇳🇻🇳🇻🇳🇻🇳🇻🇳
 
 ### 👨‍💻 Introduction
 🎯 Software engineer specialized in **ROS2**, **autonomous vehicles**, and **robot control solutions**.  
