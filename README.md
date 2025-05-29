@@ -2,7 +2,7 @@
 
 ---
 
-## 🇺🇸 About Me (English)
+##  🇻🇳🇻🇳🇻🇳🇻🇳🇻🇳🇻🇳About Me (English)🇻🇳🇻🇳🇻🇳🇻🇳🇻🇳🇻🇳🇻🇳
 
 ### 👨‍💻 Introduction
 🎯 Software engineer specialized in **ROS2**, **autonomous vehicles**, and **robot control solutions**.  
@@ -30,7 +30,7 @@
 
 ---
 
-## 🇻🇳 Về tôi (Tiếng Việt)
+## 🇻🇳🇻🇳🇻🇳🇻🇳🇻🇳🇻🇳🇻🇳 Về tôi (Tiếng Việt) 🇻🇳🇻🇳🇻🇳🇻🇳🇻🇳🇻🇳🇻🇳
 
 ### 👨‍💻 Giới thiệu
 🎯 Kỹ sư phát triển phần mềm chuyên về **ROS2**, **xe tự hành**, và giải pháp điều khiển robot.  
